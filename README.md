@@ -10,4 +10,4 @@ Install python 3+ and mongodb
 
 run files :
 > python twitter_user_timeline.py narendramodi
-> >python twitter_streaming_mongodb.py #Sooryavanshi
+  python twitter_streaming_mongodb.py #Sooryavanshi
