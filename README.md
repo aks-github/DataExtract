@@ -9,5 +9,5 @@ Install python 3+ and mongodb
 2) pip install pymongo
 
 run files :
-> python twitter_user_timeline.py narendramodi
+  python twitter_user_timeline.py narendramodi
   python twitter_streaming_mongodb.py #Sooryavanshi
